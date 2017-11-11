@@ -1,0 +1,49 @@
+.index_content{
+    ul{
+        font-size:0.7rem;
+        
+        a{
+            border-bottom: solid 1px #E6E6E6;
+            color: #000;
+            line-height: 2.425rem;
+            display: flex;
+            justify-content: space-between;
+            padding: 0 0.925rem;
+            
+            img{
+                height: 1rem;
+                width:0.55rem ;
+                 margin-top: 0.7125rem;
+            }
+            span{
+                color: #676767;
+            }
+        }
+        .line{
+            height: 0.5rem;
+            background: #F5F5F5;
+        }
+    }
+}
+.register{
+    padding: 0 1rem;
+    .title{
+        font-size: 0.7rem;
+        color: #000000;
+        line-height: 2.4rem;
+        text-indent:0em;
+    }
+    p{
+        color:#676767 ;
+        font-size: 0.65rem;
+        line-height: 1.6rem;
+        text-indent:2em;
+    }
+    .imgbox{
+        text-align: center;
+        img{
+            width: 50%;
+            margin-top: 1rem;
+        }
+    }
+}
